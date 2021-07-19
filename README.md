@@ -7,9 +7,14 @@ This is not 100% percent functional, but it's relatively easy to modify to add a
 
 ## Usage
 
+![Main window of chip9-emu](capture.png)
+
 Drag and drop any Chip-8 ROM files on the main window, and use the next keys to emulate the Chip-8 keyboard:
 
-
+`` 1 2 3 4				 1 2 3 C ``
+`` Q W E R	 	-->		 4 5 6 D ``
+`` A S D F	 	-->		 7 8 9 E ``
+`` Z X C V				 A 0 B F ``
 
 
 
